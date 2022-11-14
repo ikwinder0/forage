@@ -1,0 +1,17 @@
+{
+  "name": "qr_code_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.9.3",
+    "jsdom": "^20.0.0",
+    "node-self": "^1.0.0-d",
+    "qr-code-styling-node": "^1.5.0"
+  }
+}

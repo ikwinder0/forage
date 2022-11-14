@@ -1,0 +1,2 @@
+[03-Aug-2022 08:17:28 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home3/jayan4ts/public_html/forage/vendor/bacon/bacon-qr-code/src/Renderer/Image/ImagickImageBackEnd.php on line 169
+[03-Aug-2022 09:04:29 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home3/jayan4ts/public_html/forage/vendor/bacon/bacon-qr-code/src/Renderer/Image/ImagickImageBackEnd.php on line 169
